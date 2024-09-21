@@ -5,56 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="989b1d40-033a-419d-a142-011b743fd022" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading1-StaicChecking.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading10-ADT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading11AbstractFunctionsRepInvariants.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading12-InterfaceGenericEnum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading13-Debugging.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading14-Recursion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading15-Equality.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading16-RecursiveDataType.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading17-RegularExpressions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading18-Parsers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading19-ProgrammingADTs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading2-BasicJava.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading20-Concurrency.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading21-TreadSafe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading22-LocksSynchronization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading23-QueuesMessage-Passing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading24-SocketsNetworking.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading25-Callback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading26-MapFilterReduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading27-LittleLanguage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading28-TeamVersionControl.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading29-EthicalSoftwareEngineering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading3-Testing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading4-CodeReview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading5-VersionControl.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading6-Specifictions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading7-DesigningSpecifications.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading8-MutabilityImmutability.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/Reading9-AoidDebugging.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/TurtleGraphics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/rules/RulesOf6005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/rules/RulesOf6005Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/DrawableTurtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/LineSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/PenColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/TurtleGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/TurtleSoup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/TurtleSoupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.json-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Extract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/SocialNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Timespan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Tweet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/tweet/TweetReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tweetTest/ExtractTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading1-StaicChecking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading10-ADT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading11AbstractFunctionsRepInvariants.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading12-InterfaceGenericEnum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading13-Debugging.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading14-Recursion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading15-Equality.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading16-RecursiveDataType.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading17-RegularExpressions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading18-Parsers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading19-ProgrammingADTs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading2-BasicJava.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading20-Concurrency.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading21-TreadSafe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading22-LocksSynchronization.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading23-QueuesMessage-Passing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading24-SocketsNetworking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading25-Callback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading26-MapFilterReduce.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading27-LittleLanguage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading28-TeamVersionControl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading29-EthicalSoftwareEngineering.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading3-Testing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading4-CodeReview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading5-VersionControl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading6-Specifictions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading7-DesigningSpecifications.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading8-MutabilityImmutability.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Reading9-AoidDebugging.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/TurtleGraphics.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/TurtleGraphics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/TurtleSoup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problemsets/turtlegraphics/turtle/TurtleSoup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,25 +80,36 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RulesOf6005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TurtleSoup.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RulesOf6005Test.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RulesOf6005Test.testMayUseCodeInAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TurtleSoupTest.calculateHeadingToPointTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TurtleSoupTest.calculateHeadingsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TurtleSoupTest.calculatePolygonSidesFromAngleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TurtleSoupTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TurtleSoupTest.testAssertionsEnabled.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JORDAN/A_SPECAIL_DIRECTORY/CODE/Java/SoftwareConstruction/lib&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JORDAN/A_SPECAIL_DIRECTORY/CODE/Java/SoftwareConstruction/src/main/java/org/problemsets/tweet&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/JORDAN/A_SPECAIL_DIRECTORY/CODE/Java/SoftwareConstruction/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JORDAN\A_SPECAIL_DIRECTORY\CODE\Java\SoftwareConstruction\src\main\java\org\problemsets\tweet" />
       <recent name="C:\Users\JORDAN\A_SPECAIL_DIRECTORY\CODE\Java\SoftwareConstruction\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -103,13 +119,13 @@
       <recent name="C:\Users\JORDAN\A_SPECAIL_DIRECTORY\CODE\Java\SoftwareConstruction\src\main\java\org\problemsets\turtlegraphics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RulesOf6005Test.testMayUseCodeInAssignment">
-    <configuration name="RulesOf6005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.rules.RulesOf6005" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problemsets.tweet.Main" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problemsets.turtlegraphics.rules.*" />
+          <option name="PATTERN" value="org.problemsets.tweet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,32 +133,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RulesOf6005Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TurtleSoupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problemsets.turtlegraphics.rules.*" />
+          <option name="PATTERN" value="org.problemsets.turtlegraphics.turtle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.problemsets.turtlegraphics.rules" />
-      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.rules.RulesOf6005Test" />
+      <option name="PACKAGE_NAME" value="org.problemsets.turtlegraphics.turtle" />
+      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.turtle.TurtleSoupTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RulesOf6005Test.testMayUseCodeInAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TurtleSoupTest.calculateHeadingToPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problemsets.turtlegraphics.rules.*" />
+          <option name="PATTERN" value="org.problemsets.turtlegraphics.turtle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.problemsets.turtlegraphics.rules" />
-      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.rules.RulesOf6005Test" />
-      <option name="METHOD_NAME" value="testMayUseCodeInAssignment" />
+      <option name="PACKAGE_NAME" value="org.problemsets.turtlegraphics.turtle" />
+      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.turtle.TurtleSoupTest" />
+      <option name="METHOD_NAME" value="calculateHeadingToPointTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleSoupTest.calculateHeadingsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareConstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problemsets.turtlegraphics.turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.problemsets.turtlegraphics.turtle" />
+      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.turtle.TurtleSoupTest" />
+      <option name="METHOD_NAME" value="calculateHeadingsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleSoupTest.calculatePolygonSidesFromAngleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareConstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problemsets.turtlegraphics.turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.problemsets.turtlegraphics.turtle" />
+      <option name="MAIN_CLASS_NAME" value="org.problemsets.turtlegraphics.turtle.TurtleSoupTest" />
+      <option name="METHOD_NAME" value="calculatePolygonSidesFromAngleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,9 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RulesOf6005Test.testMayUseCodeInAssignment" />
-        <item itemvalue="Application.RulesOf6005" />
-        <item itemvalue="JUnit.RulesOf6005Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TurtleSoupTest.calculateHeadingToPointTest" />
+        <item itemvalue="JUnit.TurtleSoupTest.calculateHeadingsTest" />
+        <item itemvalue="JUnit.TurtleSoupTest.calculatePolygonSidesFromAngleTest" />
+        <item itemvalue="JUnit.TurtleSoupTest" />
       </list>
     </recent_temporary>
   </component>
@@ -175,11 +225,65 @@
       <workItem from="1723696038847" duration="1123000" />
       <workItem from="1723697851135" duration="9000" />
       <workItem from="1723790429799" duration="14801000" />
-      <workItem from="1723808715318" duration="2367000" />
+      <workItem from="1723808715318" duration="5122000" />
+      <workItem from="1723817059566" duration="2000" />
+      <workItem from="1723875530445" duration="89000" />
+      <workItem from="1723879244890" duration="17000" />
+      <workItem from="1724765217400" duration="748000" />
+      <workItem from="1724767932475" duration="377000" />
+      <workItem from="1724808987706" duration="3000" />
+      <workItem from="1724810517899" duration="1000" />
+      <workItem from="1724854848928" duration="21000" />
+      <workItem from="1724920078267" duration="4000" />
+      <workItem from="1725239952014" duration="943000" />
+      <workItem from="1725241150072" duration="596000" />
+      <workItem from="1725247835441" duration="45000" />
+      <workItem from="1725249967240" duration="5607000" />
+      <workItem from="1725289702586" duration="9000" />
+      <workItem from="1725451905379" duration="42000" />
+      <workItem from="1725451959263" duration="14000" />
+      <workItem from="1725463455066" duration="36000" />
+      <workItem from="1725607367030" duration="93000" />
+      <workItem from="1725611529524" duration="3000" />
+      <workItem from="1725842828670" duration="7814000" />
+      <workItem from="1725858614875" duration="1170000" />
+      <workItem from="1725928918901" duration="8000" />
+      <workItem from="1726900134345" duration="349000" />
+      <workItem from="1726902942742" duration="684000" />
+      <workItem from="1726905836155" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problemsets/tweet/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problemsets/tweet/TweetReader.java</url>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.json.stream.JsonParsingException" package="javax.json.stream" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
